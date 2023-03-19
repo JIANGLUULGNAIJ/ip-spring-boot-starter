@@ -1,0 +1,3 @@
+#定义自动配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+xwx.jl.config.autoconfig.IpAutoConfiguration
